@@ -1,0 +1,11 @@
+
+1.  git reset [commit]
+2.  git diff --staged
+3.  git show [commit]
+4.  git fetch [bookmark]
+5.  git show [commit]
+6.  git pull
+7.  git rm
+8.  git branch [branch-name]
+9.  git stash
+10. git revert
