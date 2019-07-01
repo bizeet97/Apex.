@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git add
 git clone 
 git pull
@@ -11,3 +12,15 @@ git init
 git show
 git tag
 git checkout
+=======
+git reset
+git commit
+git show 
+git fetch
+git merge
+git clean
+git rm
+git branch 
+git stash
+git diff HEAD
+>>>>>>> behera
