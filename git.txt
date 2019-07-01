@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1.git init
 2.git commit
 3.git config
@@ -9,15 +8,4 @@
 8.git checkout
 9.git merge
 10.git log
-=======
-1. git init
-2. git add
-3. git commit 
-4. git push
-5. git pull
-6. git rebase
-7. git revert
-8. git logs
-9. git config
-10. git status
->>>>>>> origin/Kishan
+
