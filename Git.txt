@@ -1,0 +1,10 @@
+git reset
+git commit
+git show 
+git fetch
+git merge
+git clean
+git rm
+git branch 
+git stash
+git diff HEAD
